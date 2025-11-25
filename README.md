@@ -53,6 +53,8 @@ Enter 1 or 2 in the terminal and press Enter to confirm the mode. If you choose 
 
 Then manually adjust the camera and corkboard so that the image capture interface is as shown in the image below (leaving approximately one-sixth of the image blank). Be sure to adjust according to this image to ensure the camera view is as consistent as possible with the reference image below; otherwise, the writing area will be incorrect.
 
-<img src="./img/6.png" width="70%" Press the spacebar to capture the image and wait for the rest of the process to complete, then obtain the final result.
+<img src="./img/6.png" width="70%"/>
+
+ Press the spacebar to capture the image and wait for the rest of the process to complete, then obtain the final result.
 
 <img src="./img/7.png" width="40%" height="40%" />
